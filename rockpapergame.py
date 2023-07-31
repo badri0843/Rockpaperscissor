@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jul 28 19:34:53 2023
-
-@author: VIJAYALAKSHMI
-"""
 
 import random
 
